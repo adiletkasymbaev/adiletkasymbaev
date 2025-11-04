@@ -1,8 +1,6 @@
 ### Hey there 👋, I'm Adilet  
 #### Full-stack Developer
 
-![Banner](https://i.ibb.co/21Nbw317/Frame-19.png)
-
 💻 Passionate about building clean, scalable, and user-friendly web apps.  
 Currently working as a **freelance full-stack developer**, helping businesses and startups bring their ideas to life.
 
