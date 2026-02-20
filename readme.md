@@ -1,21 +1,31 @@
-### Hey there 👋, I'm Adilet  
-#### Full-stack Developer
+## Hey, I'm Adilet  
+**Full-stack Developer**
 
-💻 Passionate about building clean, scalable, and user-friendly web apps.  
-Currently working as a **freelance full-stack developer**, helping businesses and startups bring their ideas to life.
-
----
-
-### 🧠 Tech Stack  
-🚀 **Frontend:** React, TypeScript, RTK Query, TailwindCSS
-⚙️ **Backend:** DRF, Celery
-🗄️ **Database:** PostgreSQL, Redis, MongoDB
-🧰 **Tools:** Git, Docker, Nginx, Cloudflare  
+I build web applications with a focus on clarity, performance, and maintainability.  
+Interested in clean architecture, scalable backend systems, and thoughtful UI.
 
 ---
 
-### 🌍 About Me  
-- 🧩 I enjoy solving complex problems with simple and elegant code  
-- 🎨 I value good UI/UX and clean architecture  
-- 🔭 Currently focused on freelance projects and personal development  
-- 🎯 Goal: Build meaningful products that make an impact  
+### Tech Stack
+
+**Frontend**  
+- React, TypeScript
+- RTK, Zustand, MobX
+- RTK Query, TanStack Query
+- TailwindCSS, HeroUI, Ant Design
+- RHK/Formik, Zod/Yup
+
+**Backend**  
+- Django REST Framework  
+- Celery
+
+**Databases**  
+- PostgreSQL  
+- Redis
+- MongoDB
+
+**Tools & Infrastructure**  
+- Git
+- Docker
+- Nginx
+- Cloudflare
